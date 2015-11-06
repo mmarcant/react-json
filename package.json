@@ -26,7 +26,6 @@
     "object-assign": "^2.0.0"
   },
   "peerDependencies": {
-    "react": ">=14.0.0"
   },
   "devDependencies": {
     "gulp": "^3.8.11",
